@@ -1,5 +1,5 @@
 
-package observer.pratica;
+package observer;
 
 import java.util.Random;
 
